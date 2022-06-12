@@ -1,0 +1,25 @@
+.addgame{
+    border:none;
+    background-color:#6610f2;
+}
+.addgame:hover{
+    filter: brightness(90%);
+}
+.updatebtn:hover{
+    filter: brightness(90%);
+}
+.deletebtn:hover{
+    filter: brightness(90%);
+}
+table {
+    border-collapse: separate;
+    border-spacing:0 30px;
+}
+.gamerow:hover {background-color: #f5f5f5;}
+.submitlogin{
+    border:none;background-color:#6610f2;
+
+}
+.submitlogin:hover{
+    filter: brightness(90%);
+}
